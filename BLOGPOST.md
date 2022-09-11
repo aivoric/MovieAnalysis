@@ -1,10 +1,12 @@
 ![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/images/prediction.jpeg?raw=true)
 
-## Can we predict a movie rating with data?
+# Can we predict a movie rating with data?
 
 ### A huge growth in the number of movies
 
 In the last couple of decades the number of movies released world wide has been growing at a very rapid pace.
+
+
 
 ![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/images/us-uk-movie-releases.png?raw=true)
 Source: https://stephenfollows.com/how-many-films-are-released-each-year/
