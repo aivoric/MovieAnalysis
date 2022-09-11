@@ -103,7 +103,7 @@ https://xgboost.readthedocs.io/en/stable/
 
 So what happens when we try to train a model using the Netflix data set? Can the model be used to predict movie ratings?
 
-So in short: maybe. When we calculated the mean squared error (sorry, getting technical here) we got: TBD.
+So in short: maybe. When we calculated the mean squared error (sorry, getting technical here) we got: 0.626.
 
 There may be some predictive value in the model, but as mentioned above, we would need to revisit the data engineering side
 of this project to see if can group the data somehow differently to produce a different input for the model, i.e. reduce the

@@ -54,5 +54,5 @@ The size of this table is:
 Although an xgboost regression was performed to demonstrate how the algorithm could be used, it would
 be innacurate in this case to use it since we don't have enough data samples.
 
-Nevertheless, with the current XGBoost run we managed to achieve a mean squared error of TBD indicating
+Nevertheless, with the current XGBoost run we managed to achieve a mean squared error of 0.626 indicating
 that there may be some predictive value in this model.
