@@ -1,6 +1,8 @@
-![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/images/prediction.jpeg?raw=true)
-
 # Can we predict a movie rating with data?
+
+Maybe. Let's find out! Spoiler alert: it's difficult.
+
+![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/images/prediction.jpeg?raw=true)
 
 ### A huge growth in the number of movies
 
