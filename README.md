@@ -41,3 +41,18 @@ For the prediction part XGBoost was used together with SKlearn in order to attem
 ![Most popular directors.](/images/actors.png?raw=true "Most popular directors.")
 
 ### Q3: Can we predict a movie rating?
+
+With the current approach an accurate prediction cannot be achieved.
+
+The goal was to see if an actor being present in a movie can serve as a strong predictor.
+
+Every single actor in the data set was hot encoded, hence producing a table with many features.
+
+The size of this table is:
+74140 rows x 54087 colunns
+
+Although an xgboost regression was performed to demonstrate how the algorithm could be used, it would
+be innacurate in this case to use it since we don't have enough data samples.
+
+Nevertheless, with the current XGBoost run we managed to achieve a mean squared error of TBD indicating
+that there may be some predictive value in this model.
