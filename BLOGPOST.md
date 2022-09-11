@@ -1,12 +1,12 @@
-![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/prediction.jpeg?raw=true)
+![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/images/prediction.jpeg?raw=true)
 
 ## Can we predict a movie rating with data?
 
 ### A huge growth in the number of movies
 
-In the last couple of decades the number of movies release world wide has been growing at a very rapid pace.
+In the last couple of decades the number of movies released world wide has been growing at a very rapid pace.
 
-![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/us-uk-movie-releases.png?raw=true)
+![Disaster Response Project](https://github.com/aivoric/MovieAnalysis/blob/main/images/us-uk-movie-releases.png?raw=true)
 Source: https://stephenfollows.com/how-many-films-are-released-each-year/
 
 It is becoming more and more difficult to choose a movie to watch. People more often now are starting to rely on
@@ -22,7 +22,7 @@ Fortunately the company has provided a full data set of their movies with IMDB r
 data points in July 2022. This can be found here:
 https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
 
-Using this data we can try and answer the questions posed above: "Can we predict a movie rating with data?". But before
+Using this data we can try and answer the question posed above: "Can we predict a movie rating with data?". But before
 we do that let's explore a few other questions to familiarise ourselves with the data we have.
 
 ### So what do people actually like to watch?
@@ -31,10 +31,10 @@ we do that let's explore a few other questions to familiarise ourselves with the
 
 Interestingly we see that drama and comedy top genre popularity movie charts. Most likely for their neutrality, i.e. it is
 about day to day life (very often). These genres don't traverse into realms we rarely live in. These realms can be easily
-see in the least popular genres of "western" and "war". Which makes sense. After a hard day at work, are you really going
+seen in the least popular genres of "western" and "war". Which makes sense. After a hard day at work, are you really going
 to watch a war movie or a western movie (which also tends to be brutal)?
 
-### Who are those actors which play in the most amount of movies and tv shoes these days?
+### Who are those actors which play in the most amount of movies and tv show on Netflix?
 
 Looking at the actors which played in the most amount of movies and tv shoes on Netflix we find:
 
