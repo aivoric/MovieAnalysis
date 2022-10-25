@@ -30,9 +30,6 @@ For the prediction part XGBoost was used together with SKlearn in order to attem
 
 ## Results
 
-A full blog post with the results can be found here:
-https://github.com/aivoric/MovieAnalysis/blob/main/BLOGPOST.md
-
 ### Q1: What are the most and the least popular movie genres on Netflix?
 
 ![Most and least popular genre.](/images/genres.png?raw=true "Most and least popular genre.")
@@ -59,10 +56,3 @@ be innacurate in this case to use it since we don't have enough data samples.
 
 Nevertheless, with the current XGBoost run we managed to achieve a mean squared error of 0.626 indicating
 that there may be some predictive value in this model.
-
-## Acknowledgements
-
-The data source for this can be found here:
-https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
-
-Thank you to whomever has made this fantastic data public.
